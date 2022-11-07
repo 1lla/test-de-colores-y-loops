@@ -1,0 +1,41 @@
+*{
+
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	text-decoration: none;
+	border: none;
+	outline: none;
+	font-family: 'Roboto', sans-serif;
+}
+
+body{
+	background: #F2F2F2;
+	margin-left: 1em;
+	margin-top: 1em;
+}
+
+h1{
+	font-family: 'Oswald', sans-serif;
+	color: #22593F;
+
+}
+
+h2{
+	color: #85A693;
+	font-style: italic;
+}
+
+
+/* ----------------------------------------------  canvas */
+
+
+#cavStyle{
+
+	border: 2px solid #000;
+	margin-top: 1em;
+}
+
+
+/*------------------------------------------ secciones */
+
